@@ -54,4 +54,5 @@ public class HollowDiamond {
         System.out.println();
     }
 }
+
 }
